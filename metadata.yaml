@@ -1,0 +1,31 @@
+_repo: Epistola-de-Manoel-Mendes-Foga-a--13-Dirigida-de-lisboa-a-hum-amigo-da-sua-terra-em-que-lhe-r__27544
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Macedo, José Agostinho de
+    aliases:
+    - Macedo, Jose Agostinho de
+    - De Macedo, José Agostinho
+    birthdate: 1761
+    deathdate: 1831
+    gutenberg_agent_id: '32274'
+    url: http://www.gutenberg.org/2009/agents/32274
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Jos%C3%A9_Agostinho_de_Macedo
+    - http://en.wikipedia.org/wiki/Jos%C3%A9_Agostinho_de_Macedo
+description: ''
+gutenberg_issued: '2008-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27544'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: "Epistola de Manoel Mendes Fogaça\r\nDirigida de lisboa a hum amigo da sua\
+  \ terra, em que lhe refere como de repente se fez poeta, e lhe conta as proezas\
+  \ de hum rafeiro."
+url: http://www.gutenberg.org/ebooks/27544
