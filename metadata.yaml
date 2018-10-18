@@ -27,6 +27,8 @@ language: pt
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "Epistola de Manoel Mendes Fogaça\r\nDirigida de lisboa a hum amigo da sua\
   \ terra, em que lhe refere como de repente se fez poeta, e lhe conta as proezas\
   \ de hum rafeiro."
